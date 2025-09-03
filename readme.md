@@ -43,7 +43,6 @@ ESP32-IoT-AWS-project/
 │ ├── esp_netif.h
 │ ├── driver/
 │ │ └── ledc.h
-│ └── ...
 │
 ├── web/ # Web server assets
 ├── build/ # CMake build output (ignored in Git)
