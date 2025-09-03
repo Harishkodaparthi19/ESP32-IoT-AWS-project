@@ -1,0 +1,11 @@
+# Build and output directories
+build/
+output/
+
+# VSCode settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
